@@ -362,8 +362,6 @@ Checkout 10+ demos & tutorials to start:
 
 and more in the [DEMO](https://github.com/kexinhuang12345/DeepPurpose/tree/master/DEMO) folder!
 
-## Contact
-Please contact kexinhuang@hsph.harvard.edu or tfu42@gatech.edu for help or submit an issue. 
 
 ## Encodings
 Currently, we support the following encodings:
