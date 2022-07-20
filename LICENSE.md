@@ -1,6 +1,6 @@
 BSD 3-Clause License
 
-Copyright (c) 2020, Kexin Huang, Tianfan Fu
+Copyright (c) 2022, Arnab Bhowmik, Tianfan Fu
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
