@@ -29,8 +29,6 @@ This repository hosts DeepPurpose, a Deep Learning Based Molecular Modeling and 
 	- label unit conversion for skewed label distribution such as Kd.
 	- time reference for computational expensive encoding.
 	- PyTorch based, support CPU, GPU, Multi-GPUs.
-	
-*NOTE: We are actively looking for constructive advices/user feedbacks/experiences on using DeepPurpose! Please open an issue or [contact us](mailto:kexinhuang@hsph.harvard.edu).*
 
 ## Installation
  install it locally since Binder needs to be refreshed every time launching. To install locally, we recommend to install from `pip`:
