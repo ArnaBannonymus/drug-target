@@ -1,8 +1,3 @@
-## Instructions on how to include a new encoder
-
-Thank you for your interest in DeepPurpose! As more and more models are coming up, we want to include as much as the models and their pretrained models in our framework. Here we provide step-by-step instructions to do that:
-
-
 ### Step 1: modify the ``utils.py`` file for data and parameter.
 
 For any dataset, we expect each drug is associated with SMILES and each protein with amino acid sequence. However, as different encoders expect different input to the model (e.g., MPNN expects mol graph), we need to first transform it to the expected format. To do that, in the ``utils.py`` file, define a new function ``smiles2xxx`` or ``target2xxx`` which taks a input SMILES/sequence and outputs the encoding format for that single input. 
@@ -22,7 +17,3 @@ In the ```encoders.py```, define the encoder models. The input of the ``__init__
 Finally, we need to modify the training wrappers. Every file has similar structures so we will talk about one file and the rest should follow. In the main class ``__init__`` function, include an ``elif`` statement to define the model based on the definitions in ``encoders.py``.
 
 That's it! You have successfully included your model in DeepPurpose!
-
-### Test and Write in README file
-
-Before you create a pull request, please also test it locally and send kexinhuang@hsph.harvard.edu a test case. Then, you are good to go!
