@@ -46,13 +46,7 @@ If you found this package useful, please cite [our paper](https://doi.org/10.109
 ```
 
 ## Installation
-Try it on [Binder](https://mybinder.org)! Binder is a cloud Jupyter Notebook interface that will install our environment dependency for you. 
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kexinhuang12345/DeepPurpose/master)
-
-[Video tutorial](https://www.youtube.com/watch?v=ghUyZknxq5o) to install Binder.
-
-We recommend to install it locally since Binder needs to be refreshed every time launching. To install locally, we recommend to install from `pip`:
+ install it locally since Binder needs to be refreshed every time launching. To install locally, we recommend to install from `pip`:
 
 ### `pip`
 
@@ -620,9 +614,3 @@ Note that for DTI models, the BindingDB and DAVIS are trained on log scale. But 
 |Morgan_AAC_DAVIS|
 
 </details>
-
-
-## Disclaimer
-The output list should be inspected manually by experts before proceeding to the wet-lab validation, and our work is still in active developement with limitations, please do not directly use the drugs.
-
-
