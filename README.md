@@ -1,6 +1,3 @@
-<p align="center"><img src="figs/logo_deeppurpose_horizontal.png" alt="logo" width="400px" /></p>
-
-
 <h3 align="center">
 <p> A Deep Learning Library for Compound and Protein Modeling <br>DTI, Drug Property, PPI, DDI, Protein Function Prediction<br></h3>
 <h4 align="center">
@@ -639,8 +636,6 @@ Note that for DTI models, the BindingDB and DAVIS are trained on log scale. But 
 
 </details>
 
-## Documentations
-https://deeppurpose.readthedocs.io is under active development.
 
 ## Disclaimer
 The output list should be inspected manually by experts before proceeding to the wet-lab validation, and our work is still in active developement with limitations, please do not directly use the drugs.
