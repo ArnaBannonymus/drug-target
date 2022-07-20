@@ -32,19 +32,6 @@ This repository hosts DeepPurpose, a Deep Learning Based Molecular Modeling and 
 	
 *NOTE: We are actively looking for constructive advices/user feedbacks/experiences on using DeepPurpose! Please open an issue or [contact us](mailto:kexinhuang@hsph.harvard.edu).*
 
-
-## Cite Us
-
-If you found this package useful, please cite [our paper](https://doi.org/10.1093/bioinformatics/btaa1005):
-```
-@article{huang2020deeppurpose,
-  title={DeepPurpose: A Deep Learning Library for Drug-Target Interaction Prediction},
-  author={Huang, Kexin and Fu, Tianfan and Glass, Lucas M and Zitnik, Marinka and Xiao, Cao and Sun, Jimeng},
-  journal={Bioinformatics},
-  year={2020}
-}
-```
-
 ## Installation
  install it locally since Binder needs to be refreshed every time launching. To install locally, we recommend to install from `pip`:
 
